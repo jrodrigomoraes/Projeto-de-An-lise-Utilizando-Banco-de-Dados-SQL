@@ -39,5 +39,9 @@ O projeto envolve diversas etapas que cobrem desde a estruturação de um **Banc
 ## Como Rodar o Projeto
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SeuUsuario/Projeto-de-Analise-Utilizando-Banco-de-Dados-SQL.git
+      ```bash
+   git clone https://github.com/jrodrigomoraes/Projeto-de-Analise-Utilizando-Banco-de-Dados-SQL.git
+
+## Agradecimentos e Créditos
+
+Agradecimento ao [Nerd dos Dados](https://www.youtube.com/@nerddosdados) por disponibilizar os arquivos para a realização desse projeto incrível.
